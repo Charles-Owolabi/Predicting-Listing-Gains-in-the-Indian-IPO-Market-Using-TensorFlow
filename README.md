@@ -1,3 +1,5 @@
+# Predicting Listing Gains in the Indian IPO Market Using TensorFlow
+
 ## Introduction
 In this project I worked on the Initial Public Offerings (IPO) in the Indian market. I build a deep learning classification model to determine if there will be listing gains for the IPO. Listing gains are the percentage increase in the share price of a company from its IPO issue price on the day of listing.
 
@@ -28,7 +30,7 @@ cribed overall
 ## Performance
 The model evaluation output shows the performance of the model on both training and test data. The accuracy was approximately 98% on the training data and 91% on the test data. Ideally, the higher the accuracy value, the better the model is performing. It's noteworthy that the training and test set accuracies are close to each other, which shows that there is consistency and that the accuracy doesn't drop too much when we test the model on unseen data.
 
-#### Conclusion
+## Conclusion
 
 In this project, I have built Deep Learning Classification models using the deep learning framework, Keras, in TensorFlow. I used a real-world IPO dataset and built a classifier algorithm to predict whether an IPO will list at profit or not.
 
