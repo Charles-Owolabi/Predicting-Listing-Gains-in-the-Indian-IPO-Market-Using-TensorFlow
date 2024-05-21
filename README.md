@@ -24,3 +24,12 @@ cribed overall
 **Issue_Price:** the price in INR at which the IPO was issued
 
 **Listing_Gains_Percent:** is the percentage gain in the listing price over the issue price
+
+## Performance
+The model evaluation output shows the performance of the model on both training and test data. The accuracy was approximately 98% on the training data and 91% on the test data. Ideally, the higher the accuracy value, the better the model is performing. It's noteworthy that the training and test set accuracies are close to each other, which shows that there is consistency and that the accuracy doesn't drop too much when we test the model on unseen data.
+
+#### Conclusion
+
+In this project, I have built Deep Learning Classification models using the deep learning framework, Keras, in TensorFlow. I used a real-world IPO dataset and built a classifier algorithm to predict whether an IPO will list at profit or not.
+
+The accuracy was approximately 98% on the training data and 91% on the test data. The accuracy is consistent across the training and test datasets, which is a promising sign. 
